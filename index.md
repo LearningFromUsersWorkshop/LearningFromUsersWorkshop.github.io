@@ -1,9 +1,6 @@
 # CALL FOR PAPERS
-# IEEE VIS 2018 Workshop on Machine Learning from User Interaction for Visualization and Analytics
 
 **Date and Location:** October 21 or 22, 2018 in Berlin, Germany
-
-**Website:** This one
 
 The goal of this workshop is to bring together researchers from across the VIS community -- SciVis, InfoVis, and VAST -- to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction. Our intention in this workshop is to pull expertise from across all fields of VIS in order to generate open discussion about how we currently learn from user interaction and where we can go with future research in this area.  We hope to foster discussion regarding systems, interaction models, and interaction techniques across fields within the VIS community, rather than the current state of having these discussions independently contained within the SciVis/InfoVis/VAST fields. Further, we hope to collaboratively create a research agenda that explores the future of machine learning with user interaction based on the discussion during the workshop.
 
