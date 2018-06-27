@@ -31,9 +31,9 @@ We invite research and position papers between 5 and 10 pages in length (NOT inc
   
 #### Important Dates
 
-Submission deadline:  June 30, 2018 
+Submission deadline:  ~~June 30, 2018~~  July 15, 2018
 
-Author notification:  July 31, 2018
+Author notification:  ~~July 31, 2018~~  August 6, 2018
 
 Camera-ready deadline:  August 20, 2018
 
