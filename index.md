@@ -4,24 +4,34 @@
 
 The goal of this workshop is to bring together researchers from across the VIS community -- SciVis, InfoVis, and VAST -- to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction. Our intention in this workshop is to pull expertise from across all fields of VIS in order to generate open discussion about how we currently learn from user interaction and where we can go with future research in this area.  We hope to foster discussion regarding systems, interaction models, and interaction techniques across fields within the VIS community, rather than the current state of having these discussions independently contained within the SciVis/InfoVis/VAST fields. Further, we hope to collaboratively create a research agenda that explores the future of machine learning with user interaction based on the discussion during the workshop.
 
+[logo]: papers/PDF_24.png "PDF Available"
+
 # Schedule
 **Session 1: Applications (9:00am - 10:40am)**
 - 9:00am:  **Introduction and Welcome**
 - 9:10am:  **HyperTuner: Visual Analytics for Hyperparameter Tuning by Professionals**
-![PDF logo](papers/PDF_24.png "PDF Available") by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
-- 9:20am:  **Computer-supported Interactive Assignment of Keywords for Literature Collections** by Shivam Agarwal, Jürgen Bernard, Fabian Beck (paper)
-- 9:30am:  **Using Hidden Markov Models to Determine Cognitive States of Visual Analytic Users** by Mohamad Aboufoul, Ryan Wesslen, Isaac Cho, Wenwen Dou, Samira Shaikh (paper)
-- 9:40am:  **Providing Contextual Assistance in Response to Frustration in Visual Analytics Tasks** by Prateek Panwar, Adam Bradley, Christopher Collins (paper)
-- 9:50am:  **Interactive Machine Learning Heuristics** by Eric Corbett, Nathaniel Saul, Meg Pirrung (poster)
-- 9:55am:  **Opening the Black-Box: Towards more Interactive and Interpretable Machine Learning** by Fabian Peña, John Guerra-Gomez (poster)
+![PDF Logo][logo] by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
+- 9:20am:  **Computer-supported Interactive Assignment of Keywords for Literature Collections**
+![PDF Logo][logo] by Shivam Agarwal, Jürgen Bernard, Fabian Beck (paper)
+- 9:30am:  **Using Hidden Markov Models to Determine Cognitive States of Visual Analytic Users**
+![PDF Logo][logo] by Mohamad Aboufoul, Ryan Wesslen, Isaac Cho, Wenwen Dou, Samira Shaikh (paper)
+- 9:40am:  **Providing Contextual Assistance in Response to Frustration in Visual Analytics Tasks**
+![PDF Logo][logo] by Prateek Panwar, Adam Bradley, Christopher Collins (paper)
+- 9:50am:  **Interactive Machine Learning Heuristics** 
+![PDF Logo][logo] by Eric Corbett, Nathaniel Saul, Meg Pirrung (poster)
+- 9:55am:  **Opening the Black-Box: Towards more Interactive and Interpretable Machine Learning** 
+![PDF Logo][logo] by Fabian Peña, John Guerra-Gomez (poster)
 - 10:00am:  **Discussion:** What new applications, capabilities, and opportunities could be enabled by machine learning from user interaction?
 - 10:40am:  **Break**
 
 **Session 2:  Research Agenda (11:00am - 12:40pm)**
-- 11:00am:  **ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems** by Eli Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert (paper)
+- 11:00am:  **ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems** 
+![PDF Logo][logo] by Eli Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert (paper)
 - 11:10am:  **A Human-in-the-Loop Software Platform** by Fang Cao, David Scroggins, Lebna Thomas, Eli Brown (paper)
-- 11:20am:  **A Bidirectional Pipeline for Semantic Interaction** by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North (paper)
-- 11:30am:  **Speculative Execution for Guided Visual Analytics** by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady (paper)
+- 11:20am:  **A Bidirectional Pipeline for Semantic Interaction** 
+![PDF Logo][logo] by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North (paper)
+- 11:30am:  **Speculative Execution for Guided Visual Analytics** 
+![PDF Logo][logo] by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady (paper)
 - 11:40am:  **Discussion:** What research is needed to enable the identified applications, capabilities, and opportunities?
 - 12:20am:  **Next Steps:** Planning the outcomes of the workshop
 - 12:40am:  **Workshop Concludes** ...but go have lunch with each other and keep talking :)
