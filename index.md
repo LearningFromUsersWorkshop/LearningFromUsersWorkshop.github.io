@@ -7,7 +7,7 @@ The goal of this workshop is to bring together researchers from across the VIS c
 # Schedule
 **Session 1: Applications (9:00am - 10:40am)**
 - 9:00am:  **Introduction and Welcome**
-- 9:10am:  **HyperTuner: Visual Analytics for Hyperparameter Tuning by Professionals** by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
+- 9:10am:  **HyperTuner: Visual Analytics for Hyperparameter Tuning by Professionals**[PDF logo](papers/PDF_24.png "PDF Available") by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
 - 9:20am:  **Computer-supported Interactive Assignment of Keywords for Literature Collections** by Shivam Agarwal, Jürgen Bernard, Fabian Beck (paper)
 - 9:30am:  **Using Hidden Markov Models to Determine Cognitive States of Visual Analytic Users** by Mohamad Aboufoul, Ryan Wesslen, Isaac Cho, Wenwen Dou, Samira Shaikh (paper)
 - 9:40am:  **Providing Contextual Assistance in Response to Frustration in Visual Analytics Tasks** by Prateek Panwar, Adam Bradley, Christopher Collins (paper)
