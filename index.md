@@ -6,18 +6,21 @@ The goal of this workshop is to bring together researchers from across the VIS c
 
 # Schedule
 Session 1: Applications (9:00am - 10:40am)
+- Introduction and Welcome
 - **HyperTuner: Visual Analytics for Hyperparameter Tuning by Professionals** by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
 - **Computer-supported Interactive Assignment of Keywords for Literature Collections** by Shivam Agarwal, Jürgen Bernard, Fabian Beck (paper)
 - **Using Hidden Markov Models to Determine Cognitive States of Visual Analytic Users** by Mohamad Aboufoul, Ryan Wesslen, Isaac Cho, Wenwen Dou, Samira Shaikh (paper)
 - **Providing Contextual Assistance in Response to Frustration in Visual Analytics Tasks** by Prateek Panwar, Adam Bradley, Christopher Collins (paper)
 - **Interactive Machine Learning Heuristics** by Eric Corbett, Nathaniel Saul, Meg Pirrung (poster)
 - **Opening the black-box: Towards more Interactive and Interpretable Machine Learning** by Fabian Peña, John Guerra-Gomez (poster)
+- Discussion
 
 Session 2:  Research Agenda (11:00am - 12:40pm)
 - **ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems** by Eli Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert (paper)
 - **A Human-in-the-Loop Software Platform** by Fang Cao, David Scroggins, Lebna Thomas, Eli Brown (paper)
 - **A Bidirectional Pipeline for Semantic Interaction** by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North (paper)
 - **Speculative Execution for Guided Visual Analytics** by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady (paper)
+- Discussion
 
 ## WORKSHOP TOPICS
 
