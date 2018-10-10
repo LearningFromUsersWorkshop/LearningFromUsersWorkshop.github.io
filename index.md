@@ -21,8 +21,8 @@ The goal of this workshop is to bring together researchers from across the VIS c
 - 11:10am:  **A Human-in-the-Loop Software Platform** by Fang Cao, David Scroggins, Lebna Thomas, Eli Brown (paper)
 - 11:20am:  **A Bidirectional Pipeline for Semantic Interaction** by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North (paper)
 - 11:30am:  **Speculative Execution for Guided Visual Analytics** by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady (paper)
-- 11:40am:  **Discussion:** What research is needed to enable that?
-- 12:20am:  **Next Steps**
+- 11:40am:  **Discussion:** What research is needed to enable the identified applications, capabilities, and opportunities?
+- 12:20am:  **Next Steps:** Planning the outcomes of the workshop
 - 12:40am:  **Workshop Concludes** ...but go have lunch with each other and keep talking :)
 
 
