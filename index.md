@@ -5,7 +5,7 @@
 The goal of this workshop is to bring together researchers from across the VIS community -- SciVis, InfoVis, and VAST -- to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction. Our intention in this workshop is to pull expertise from across all fields of VIS in order to generate open discussion about how we currently learn from user interaction and where we can go with future research in this area.  We hope to foster discussion regarding systems, interaction models, and interaction techniques across fields within the VIS community, rather than the current state of having these discussions independently contained within the SciVis/InfoVis/VAST fields. Further, we hope to collaboratively create a research agenda that explores the future of machine learning with user interaction based on the discussion during the workshop.
 
 # Schedule
-Session 1: Applications (9:00am - 10:40am)
+**Session 1: Applications (9:00am - 10:40am)**
 - 9:00am:  Introduction and Welcome
 - 9:10am:  **HyperTuner: Visual Analytics for Hyperparameter Tuning by Professionals** by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
 - 9:20am:  **Computer-supported Interactive Assignment of Keywords for Literature Collections** by Shivam Agarwal, Jürgen Bernard, Fabian Beck (paper)
@@ -15,7 +15,7 @@ Session 1: Applications (9:00am - 10:40am)
 - 9:55am:  **Opening the black-box: Towards more Interactive and Interpretable Machine Learning** by Fabian Peña, John Guerra-Gomez (poster)
 - 10:00am:  Discussion
 
-Session 2:  Research Agenda (11:00am - 12:40pm)
+**Session 2:  Research Agenda (11:00am - 12:40pm)**
 - 11:00am:  **ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems** by Eli Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert (paper)
 - 11:10am:  **A Human-in-the-Loop Software Platform** by Fang Cao, David Scroggins, Lebna Thomas, Eli Brown (paper)
 - 11:20am:  **A Bidirectional Pipeline for Semantic Interaction** by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North (paper)
