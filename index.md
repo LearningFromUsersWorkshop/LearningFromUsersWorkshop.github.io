@@ -9,29 +9,20 @@ The goal of this workshop is to bring together researchers from across the VIS c
 # Schedule
 **Session 1: Applications (9:00am - 10:40am)**
 - 9:00am:  **Introduction and Welcome**
-- 9:10am:  **[HyperTuner: Visual Analytics for Hyperparameter Tuning by Professionals](papers/HyperTuner.pdf)**
-![PDF Logo][logo] by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
-- 9:20am:  **[Computer-supported Interactive Assignment of Keywords for Literature Collections](papers/Literature.pdf)**
-![PDF Logo][logo] by Shivam Agarwal, Jürgen Bernard, Fabian Beck (paper)
+- 9:10am:  **[HyperTuner: Visual Analytics for Hyperparameter Tuning by Professionals](papers/HyperTuner.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available" height=18" style="align:middle;"> by Tianyi Li, Gregorio Convertino, Wenbo Wang, Haley Most, Tristan Zajonc, Yi-Hsun Tsai (paper)
+- 9:20am:  **[Computer-supported Interactive Assignment of Keywords for Literature Collections](papers/Literature.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available" height=18" style="align:middle;"> by Shivam Agarwal, Jürgen Bernard, Fabian Beck (paper)
 - 9:30am:  **Using Hidden Markov Models to Determine Cognitive States of Visual Analytic Users** by Mohamad Aboufoul, Ryan Wesslen, Isaac Cho, Wenwen Dou, Samira Shaikh (paper)
-- 9:40am:  **[Providing Contextual Assistance in Response to Frustration in Visual Analytics Tasks](papers/Frustration.pdf)**
-![PDF Logo][logo] by Prateek Panwar, Adam Bradley, Christopher Collins (paper)
-- 9:50am:  **[Interactive Machine Learning Heuristics](papers/IMLH.pdf)** 
-![PDF Logo][logo] by Eric Corbett, Nathaniel Saul, Meg Pirrung (poster)
-- 9:55am:  **[Opening the Black-Box: Towards more Interactive and Interpretable Machine Learning](papers/BlackBox.pdf)** 
-![PDF Logo][logo] by Fabian Peña, John Guerra-Gomez (poster)
+- 9:40am:  **[Providing Contextual Assistance in Response to Frustration in Visual Analytics Tasks](papers/Frustration.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available" height=18" style="align:middle;"> by Prateek Panwar, Adam Bradley, Christopher Collins (paper)
+- 9:50am:  **[Interactive Machine Learning Heuristics](papers/IMLH.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available" height=18" style="align:middle;"> by Eric Corbett, Nathaniel Saul, Meg Pirrung (poster)
+- 9:55am:  **[Opening the Black-Box: Towards more Interactive and Interpretable Machine Learning](papers/BlackBox.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available" height=18" style="align:middle;"> by Fabian Peña, John Guerra-Gomez (poster)
 - 10:00am:  **Discussion:** What new applications, capabilities, and opportunities could be enabled by machine learning from user interaction?
 - 10:40am:  **Break**
 
 **Session 2:  Research Agenda (11:00am - 12:40pm)**
-- 11:00am:  **[ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems](papers/ModelSpace.pdf)** 
-![PDF Logo][logo] by Eli Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert (paper)
+- 11:00am:  **[ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems](papers/ModelSpace.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available" height=18" style="align:middle;"> by Eli Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert (paper)
 - 11:10am:  **A Human-in-the-Loop Software Platform** by Fang Cao, David Scroggins, Lebna Thomas, Eli Brown (paper)
-- 11:20am:  **[A Bidirectional Pipeline for Semantic Interaction](papers/Pipeline.pdf)** 
-![PDF Logo][logo] by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North (paper) [Supplementary Content](papers/PipelineSupplement.pdf)
-![PDF Logo][logo]
-- 11:30am:  **[Speculative Execution for Guided Visual Analytics](papers/SpecEx.pdf)** 
-![PDF Logo][logo] by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady (paper)
+- 11:20am:  **[A Bidirectional Pipeline for Semantic Interaction](papers/Pipeline.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available" height=18" style="align:middle;"> by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North (paper) [Supplementary Content](papers/PipelineSupplement.pdf)<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available">
+- 11:30am:  **[Speculative Execution for Guided Visual Analytics](papers/SpecEx.pdf)**<img class="pdfIcon" src="papers/PDF_24.png" alt="PDF Available"> by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady (paper)
 - 11:40am:  **Discussion:** What research is needed to enable the identified applications, capabilities, and opportunities?
 - 12:20am:  **Next Steps:** Planning the outcomes of the workshop
 - 12:40am:  **Workshop Concludes** ...but go have lunch with each other and keep talking :)
