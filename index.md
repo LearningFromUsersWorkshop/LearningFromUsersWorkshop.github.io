@@ -15,7 +15,7 @@ The goal of this workshop is to bring together researchers from across the VIS c
 - 9:40am:  **[Providing Contextual Assistance in Response to Frustration in Visual Analytics Tasks](papers/Frustration.pdf)** by Prateek Panwar, Adam Bradley, Christopher Collins
 - 9:50am:  **[Interactive Machine Learning Heuristics](papers/IMLH.pdf)** by Eric Corbett, Nathaniel Saul, Meg Pirrung
 - 9:55am:  **[Opening the Black-Box: Towards more Interactive and Interpretable Machine Learning](papers/BlackBox.pdf)** by Fabian Peña, John Guerra-Gomez
-- 10:00am:  **Discussion:** What new applications, capabilities, and opportunities could be enabled by machine learning from user interaction?
+- 10:00am:  **[Discussion:](https://drive.google.com/drive/folders/1GWjILEiyVzmbgqnDBz41TqzlL8IKBMga?usp=sharing)** What new applications, capabilities, and opportunities could be enabled by machine learning from user interaction?
 - 10:40am:  **Break**
 
 **Session 2:  Research Agenda (11:00am - 12:40pm)**
@@ -23,8 +23,8 @@ The goal of this workshop is to bring together researchers from across the VIS c
 - 11:10am:  **A Human-in-the-Loop Software Platform** by Fang Cao, David Scroggins, Lebna Thomas, Eli Brown
 - 11:20am:  **[A Bidirectional Pipeline for Semantic Interaction](papers/Pipeline.pdf)** by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North [(Supplementary Content)](papers/PipelineSupplement.pdf)
 - 11:30am:  **[Speculative Execution for Guided Visual Analytics](papers/SpecEx.pdf)** by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady
-- 11:40am:  **Discussion:** What research is needed to enable the identified applications, capabilities, and opportunities?
-- 12:20am:  **Next Steps:** Planning the outcomes of the workshop
+- 11:40am:  **[Discussion:](https://drive.google.com/drive/folders/1GWjILEiyVzmbgqnDBz41TqzlL8IKBMga?usp=sharing)** What research is needed to enable the identified applications, capabilities, and opportunities?
+- 12:20am:  **[Next Steps:](https://drive.google.com/drive/folders/1GWjILEiyVzmbgqnDBz41TqzlL8IKBMga?usp=sharing)** Planning the outcomes of the workshop
 - 12:40am:  **Workshop Concludes** ...but go have lunch with each other and keep talking :)
 
 
