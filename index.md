@@ -19,8 +19,8 @@ The goal of this workshop is to bring together researchers from across the VIS c
 - 10:40am:  **Break**
 
 **Session 2:  Research Agenda (11:00am - 12:40pm)**
-- 11:00am:  **[ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems](papers/ModelSpace.pdf)** by Eli Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert
-- 11:10am:  **A Human-in-the-Loop Software Platform** by Fang Cao, David Scroggins, Lebna Thomas, Eli Brown
+- 11:00am:  **[ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems](papers/ModelSpace.pdf)** by Eli T. Brown, Sriram Yarlagadda, Kristin Cook, Remco Chang, Alex Endert
+- 11:10am:  **[A Human-in-the-Loop Software Platform](http://platform.lihca.io/)** by Fang Cao, David Scroggins, Lebna Thomas, Eli T. Brown
 - 11:20am:  **[A Bidirectional Pipeline for Semantic Interaction](papers/Pipeline.pdf)** by Michelle Dowling, John Wenskovitch, Peter Hauck, Adam Binford, Nicholas Polys, Chris North [(Supplementary Content)](papers/PipelineSupplement.pdf)
 - 11:30am:  **[Speculative Execution for Guided Visual Analytics](papers/SpecEx.pdf)** by Fabian Sperrle, Jürgen Bernard, Michael Sedlmair, Daniel Keim, Mennatallah El-Assady
 - 11:40am:  **[Discussion:](https://drive.google.com/drive/folders/1GWjILEiyVzmbgqnDBz41TqzlL8IKBMga?usp=sharing)** What research is needed to enable the identified applications, capabilities, and opportunities?
