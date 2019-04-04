@@ -1,4 +1,6 @@
-## Workshop Summary
+(2019 workshop page coming soon!)
+
+## 2018 Workshop Summary
 
 **Date and Location:** October 22, 2018, 9:00am - 12:40 pm, in Paris Room at [IEEE VIS](http://ieeevis.org/year/2018/welcome)
 
