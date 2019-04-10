@@ -1,4 +1,4 @@
-([2018 workshop page can be found here](2018workshop.md))
+([2018 workshop page can be found here](2018workshop))
 
 ## 2018 Workshop Summary
 
