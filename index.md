@@ -29,13 +29,13 @@ We have two submission tracks: for papers and for posters.
 
 ### Papers
 
-We invite research and position papers between 5 and 10 pages in length (NOT including references).  All submissions must be formatted according to the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (i.e., NOT the journal style template that full papers use).  Papers are to be submitted online through the [Precision Conference System](https://new.precisionconference.com/submissions/vis19r) **at the MLUI track**.  All papers accepted for presentation at the workshop will be published on IEEE Xplore and linked from the workshop website.  All papers should contain full author names and affiliations.  These papers are considered archival; reuse of the content in a follow-up publication is only permitted in a proper jounral, and any extended version must extend the original paper by at least 30%.  If applicable, a link to a short video (up to 5 min. in length) may also be submitted. The papers will be juried by the organizers and selected external reviewers and will be chosen according to relevance, quality, and likelihood that they will stimulate and contribute to the discussion. At least one author of each accepted paper needs to register  for the conference (even if only for the workshop). Registration information will be available on the [IEEE VIS website](http://ieeevis.org/year/2018/welcome).
+We invite research and position papers between 5 and 10 pages in length (NOT including references).  All submissions must be formatted according to the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (i.e., NOT the journal style template that full papers use).  Papers are to be submitted online through the [Precision Conference System](https://new.precisionconference.com/submissions/vis19r) **at the MLUI track**.  All papers accepted for presentation at the workshop will be published on IEEE Xplore and linked from the workshop website.  All papers should contain full author names and affiliations.  These papers are considered archival; reuse of the content in a follow-up publication is only permitted in a proper journal, and any extended version must extend the original paper by at least 30%.  If applicable, a link to a short video (up to 5 min. in length) may also be submitted. The papers will be juried by the organizers and selected external reviewers and will be chosen according to relevance, quality, and likelihood that they will stimulate and contribute to the discussion. At least one author of each accepted paper needs to register  for the conference (even if only for the workshop). Registration information will be available on the [IEEE VIS website](http://ieeevis.org/year/2018/welcome).
   
 #### Important Dates
 
-Submission deadline:  June 30, 2019 
+Submission deadline:  July 15, 2019 
 
-Author notification:  July 31, 2019 
+Author notification:  August 6, 2019 
 
 Camera-ready deadline:  August 20, 2019
 
