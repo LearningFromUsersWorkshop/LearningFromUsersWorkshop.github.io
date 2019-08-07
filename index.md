@@ -35,9 +35,9 @@ We invite research and position papers between 5 and 10 pages in length (NOT inc
 
 Submission deadline:  July 15, 2019 
 
-Author notification:  August 6, 2019 
+Author notification:  August 13, 2019 
 
-Camera-ready deadline:  August 20, 2019
+Camera-ready deadline:  August 22, 2019
 
 Speaker Schedule Available:  September 15, 2019
 
