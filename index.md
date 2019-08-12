@@ -49,7 +49,7 @@ We invite both late-breaking work and contributions in this area from other rese
   
 #### Important Dates
 
-Submission deadline:  August 15, 2019 
+Submission deadline:  August 20, 2019
 
 Author notification:  September 1, 2019
 
