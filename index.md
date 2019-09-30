@@ -2,9 +2,28 @@
 
 ## 2019 Workshop Summary
 
-**Date and Location:** TBD at [IEEE VIS](http://ieeevis.org/year/2019/welcome)
+**Date and Location:** Room 3, October 20, 2:20-5:40pm PDT at [IEEE VIS](http://ieeevis.org/year/2019/welcome)
 
 The Machine Learning from User Interactions (MLUI) workshop seeks to bring together researchers to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction.  Rather than focusing on what visualization can do to support machine learning (as in current Explainable AI research), this workshop seeks contributions on **how machine learning can support visualization**.  Such support incorporates human-centric sensemaking processes, user-driven analytical systems, and gaining insight from data.  Our intention in this workshop is to generate open discussion about how we currently learn from user interaction, how to build intelligent visualization systems, and how to proceed with future research in this area. We hope to foster discussion regarding systems, interaction models, and interaction techniques. Further, we hope to extend last year's collaborative creation of a research agenda that explores the future of machine learning with user interaction.
+
+
+# Schedule
+**Session 1: Applications (2:20pm - 3:50pm)**
+- 2:20pm:  **Introduction and Welcome**
+- 2:30pm:  **Keynote 1** by Chris Collins
+- 3:00pm:  **Machine Learning from User Interaction for Visualization and Analytics:  A Workshop-Generated Research Agenda** by John Wenskovitch, Michelle Dowling, Laura Grose, Remco Chang, Alex Endert, David H. Rogers
+- 3:10pm:  **Using Machine Learning and Visualization for Qualitive Inductive Analyses of Big Data** by Harshini Priya Muthukrishnan, Danielle Albers Szafir
+- 3:20pm:  **"All Right, Mr. DeMille, I'm Ready for My Closeup": Adding Meaning to User Actions from Video for Immersive Analytics** by Andrea Batch, Niklas Elmqvist
+- 3:30pm:  **DeepVA: Bridging Cognition and Computation through Semantic Interaction and Deep Learning** by Yali Bian, John Wenskovitch, Chris North
+- 3:40pm:  **Shall we play? Extending the Visual Analytics Design Space through Gameful Design Concepts** by Rita Sevastjanova, Hanna Schäfer, Jürgen Bernard, Daniel Kei, Mennatallah El-Assady
+- 3:50pm:  **Break**
+
+**Session 2:  Research Agenda (4:10pm - 5:40pm)**
+- 4:10pm:  **Keynote 2** by Melanie Tory
+- 4:40pm:  **Lightning Talks & Discussion** -- [Submit a Talk](https://forms.gle/xZCnXVmh7spLkGJSA)
+- 5:25pm:  **Next Steps**
+- 5:40pm:  **Workshop Concludes** ...but go have dinner with each other and keep talking :)
+
 
 
 ## WORKSHOP TOPICS
