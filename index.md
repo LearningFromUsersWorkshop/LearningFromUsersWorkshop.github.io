@@ -19,7 +19,7 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 - 3:50pm:  **Break**
 
 **Session 2 (4:10pm - 5:40pm)**
-- 4:10pm:  **Keynote 2** by [Dr. Melanie Tory, Tableau Research](https://research.tableau.com/user/melanie-tory)
+- 4:10pm:  **Keynote:  Supporting Analytical Conversations** by [Dr. Melanie Tory, Tableau Research](https://research.tableau.com/user/melanie-tory)
 - 4:40pm:  **Lightning Talks & Discussion** -- [Submit a Talk](https://forms.gle/xZCnXVmh7spLkGJSA)
 - 5:25pm:  **Next Steps**
 - 5:40pm:  **Workshop Concludes** ...but go have dinner with each other and keep talking :)
