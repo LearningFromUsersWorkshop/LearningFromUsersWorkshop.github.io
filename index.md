@@ -10,7 +10,7 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 # Schedule
 **Session 1 (2:20pm - 3:50pm)**
 - 2:20pm:  **Introduction and Welcome**
-- 2:30pm:  **Keynote 1** by Chris Collins
+- 2:30pm:  **Keynote 1** by [Dr. Chris Collins, Ontario Tech University](http://vialab.science.uoit.ca/portfolio/christopher-m-collins)
 - 3:00pm:  **Machine Learning from User Interaction for Visualization and Analytics:  A Workshop-Generated Research Agenda** by John Wenskovitch, Michelle Dowling, Laura Grose, Remco Chang, Alex Endert, David H. Rogers
 - 3:10pm:  **Using Machine Learning and Visualization for Qualitive Inductive Analyses of Big Data** by Harshini Priya Muthukrishnan, Danielle Albers Szafir
 - 3:20pm:  **"All Right, Mr. DeMille, I'm Ready for My Closeup": Adding Meaning to User Actions from Video for Immersive Analytics** by Andrea Batch, Niklas Elmqvist
@@ -19,7 +19,7 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 - 3:50pm:  **Break**
 
 **Session 2 (4:10pm - 5:40pm)**
-- 4:10pm:  **Keynote 2** by Melanie Tory
+- 4:10pm:  **Keynote 2** by [Dr. Melanie Tory, Tableau Research](https://research.tableau.com/user/melanie-tory)
 - 4:40pm:  **Lightning Talks & Discussion** -- [Submit a Talk](https://forms.gle/xZCnXVmh7spLkGJSA)
 - 5:25pm:  **Next Steps**
 - 5:40pm:  **Workshop Concludes** ...but go have dinner with each other and keep talking :)
