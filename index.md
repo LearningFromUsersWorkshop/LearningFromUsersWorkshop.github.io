@@ -12,7 +12,7 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 - 2:20pm:  **Introduction and Welcome**
 - 2:30pm:  **Keynote 1** by [Dr. Chris Collins, Ontario Tech University](http://vialab.science.uoit.ca/portfolio/christopher-m-collins)
 - 3:00pm:  **[Machine Learning from User Interaction for Visualization and Analytics:  A Workshop-Generated Research Agenda](papers/MLUI.pdf)** by John Wenskovitch, Michelle Dowling, Laura Grose, Remco Chang, Alex Endert, David H. Rogers
-- 3:10pm:  **[Using Machine Learning and Visualization for Qualitive Inductive Analyses of Big Data](papers/Qualitative.pdf)** by Harshini Priya Muthukrishnan, Danielle Albers Szafir
+- 3:10pm:  **[Using Machine Learning and Visualization for Qualitative Inductive Analyses of Big Data](papers/Qualitative.pdf)** by Harshini Priya Muthukrishnan, Danielle Albers Szafir
 - 3:20pm:  **"All Right, Mr. DeMille, I'm Ready for My Closeup": Adding Meaning to User Actions from Video for Immersive Analytics** by Andrea Batch, Niklas Elmqvist
 - 3:30pm:  **[DeepVA: Bridging Cognition and Computation through Semantic Interaction and Deep Learning](papers/DeepVA.pdf)** by Yali Bian, John Wenskovitch, Chris North
 - 3:40pm:  **Shall we play? Extending the Visual Analytics Design Space through Gameful Design Concepts** by Rita Sevastjanova, Hanna Schäfer, Jürgen Bernard, Daniel Kei, Mennatallah El-Assady
