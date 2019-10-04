@@ -15,7 +15,7 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 - 3:10pm:  **[Using Machine Learning and Visualization for Qualitative Inductive Analyses of Big Data](papers/Qualitative.pdf)** by Harshini Priya Muthukrishnan, Danielle Albers Szafir
 - 3:20pm:  **"All Right, Mr. DeMille, I'm Ready for My Closeup": Adding Meaning to User Actions from Video for Immersive Analytics** by Andrea Batch, Niklas Elmqvist
 - 3:30pm:  **[DeepVA: Bridging Cognition and Computation through Semantic Interaction and Deep Learning](papers/DeepVA.pdf)** by Yali Bian, John Wenskovitch, Chris North
-- 3:40pm:  **Shall we play? Extending the Visual Analytics Design Space through Gameful Design Concepts** by Rita Sevastjanova, Hanna Schäfer, Jürgen Bernard, Daniel Kei, Mennatallah El-Assady
+- 3:40pm:  **[Shall we play? Extending the Visual Analytics Design Space through Gameful Design Concepts](papers/Gameful.pdf)** by Rita Sevastjanova, Hanna Schäfer, Jürgen Bernard, Daniel Keim, Mennatallah El-Assady
 - 3:50pm:  **Break**
 
 **Session 2 (4:10pm - 5:40pm)**
