@@ -10,7 +10,7 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 # Schedule
 **Session 1 (2:20pm - 3:50pm)**
 - 2:20pm:  **Introduction and Welcome**
-- 2:30pm:  **Keynote 1** by [Dr. Chris Collins, Ontario Tech University](http://vialab.science.uoit.ca/portfolio/christopher-m-collins)
+- 2:30pm:  **Keynote:  Mixed-Initiative Visual Analytics: Model-Driven Views and Analytic Guidance** by [Dr. Chris Collins, Ontario Tech University](http://vialab.science.uoit.ca/portfolio/christopher-m-collins)
 - 3:00pm:  **[Machine Learning from User Interaction for Visualization and Analytics:  A Workshop-Generated Research Agenda](papers/MLUI.pdf)** by John Wenskovitch, Michelle Dowling, Laura Grose, Remco Chang, Alex Endert, David H. Rogers
 - 3:10pm:  **[Using Machine Learning and Visualization for Qualitative Inductive Analyses of Big Data](papers/Qualitative.pdf)** by Harshini Priya Muthukrishnan, Danielle Albers Szafir
 - 3:20pm:  **"All Right, Mr. DeMille, I'm Ready for My Closeup": Adding Meaning to User Actions from Video for Immersive Analytics** by Andrea Batch, Niklas Elmqvist
@@ -23,6 +23,24 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 - 4:40pm:  **Lightning Talks & Discussion** -- [Submit a Talk](https://forms.gle/xZCnXVmh7spLkGJSA)
 - 5:25pm:  **Next Steps**
 - 5:40pm:  **Workshop Concludes** ...but go have dinner with each other and keep talking :)
+
+
+
+## KEYNOTES
+
+**Keynote 1:  Mixed-Initiative Visual Analytics: Model-Driven Views and Analytic Guidance**
+
+**Abstract:**  The classic information visualization design pattern of "overview first, zoom and filter, details on demand" is no longer sufficient. As datasets have grown (and small displays have become more prevalent), simple overviews tend to be either too high-level to be useful, or too cluttered to reveal anything interesting. The task of exploring and sifting through the data is left only to the analyst in this traditional model. It doesn’t have to be this way: well-designed computational models of various sorts can augment the analysis process by highlighting patterns, suggesting next steps, and drawing attention to regions of potential interest. I seek to facilitate a closely coupled interaction between people and underlying computational models, mediated by visualizations, which include algorithmic transparency as to what guidance is being provided or what data is being hidden. In this talk, I will discuss the role of guidance in user interaction for visualization, framed by several recent research projects which use various types of models to improve the human-computer visual analytic complex.  
+
+**Biography:**  Christopher Collins is the Canada Research Chair in Linguistic Information Visualization and an Associate Professor of Computer Science at Ontario Tech University.  His research focus is interdisciplinary, combining information visualization and human-computer interaction with natural language processing, with a focus on interaction design and guidance in visual analytics.  While his group is best known for text visualization, he collaborates across a wide variety of topics, including health informatics, machine learning, and computer security. His papers have been published in many venues, including IEEE Transactions on Visualization and Computer Graphics, have received awards at IEEE VIS and ACM CHI, and have been featured in popular media such as the CBS News and the New York Times Magazine.  Dr. Collins is a past member of the executive of the IEEE Visualization and Graphics Technical Committee and regularly serves on the IEEE VIS Conference Organizing Committee. He received his Ph.D. in Computer Science from the University of Toronto.
+
+
+
+**Keynote 2:  Keynote:  Supporting Analytical Conversations**
+
+**Abstract:**  to come
+
+**Biography:**  to come
 
 
 
