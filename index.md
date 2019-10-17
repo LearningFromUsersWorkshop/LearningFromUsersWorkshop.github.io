@@ -38,9 +38,9 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 
 **Keynote 2:  Keynote:  Supporting Analytical Conversations**
 
-**Abstract:**  to come
+**Abstract:**  Why isn't interacting with our data as simple as having a conversation with another person? In this talk I will explore how human-data interactions can be framed as conversations. These conversations can occur with, through, and around data. They occur through a variety of modalities, including but not limited to natural language. How should we structure and facilitate analytical conversations, and what can we learn from human-human interaction?
 
-**Biography:**  to come
+**Biography:**  Melanie Tory manages user research at Tableau Software in the area of visual analytics. Much of her recent work has focused on natural language interaction with visualizations; her foundational research in this area contributed to the design of Tableau's Ask Data feature. Before joining Tableau, Melanie was an Associate Professor in visualization at the University of Victoria. She earned her PhD in Computer Science from Simon Fraser University and her BSc from the University of British Columbia. Melanie is Associate Editor of IEEE Computer Graphics and Applications and has served as Papers Co-chair for the IEEE Information Visualization and ACM Interactive Surfaces and Spaces conferences.
 
 
 
