@@ -12,15 +12,15 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 - 2:20pm:  **Introduction and Welcome**
 - 2:30pm:  **Keynote:  Mixed-Initiative Visual Analytics: Model-Driven Views and Analytic Guidance** by [Dr. Chris Collins, Ontario Tech University](http://vialab.science.uoit.ca/portfolio/christopher-m-collins)
 - 3:00pm:  **Using Machine Learning and Visualization for Qualitative Inductive Analyses of Big Data** by Harshini Priya Muthukrishnan, Danielle Albers Szafir
-- 3:10pm:  **"All Right, Mr. DeMille, I'm Ready for My Closeup": Adding Meaning to User Actions from Video for Immersive Analytics** by Andrea Batch, Niklas Elmqvist
-- 3:20pm:  **DeepVA: Bridging Cognition and Computation through Semantic Interaction and Deep Learning** by Yali Bian, John Wenskovitch, Chris North
-- 3:30pm:  **Shall we play? Extending the Visual Analytics Design Space through Gameful Design Concepts** by Rita Sevastjanova, Hanna Schäfer, Jürgen Bernard, Daniel Keim, Mennatallah El-Assady
-- 3:40pm:  **Machine Learning from User Interaction for Visualization and Analytics:  A Workshop-Generated Research Agenda** by John Wenskovitch, Michelle Dowling, Laura Grose, Remco Chang, Alex Endert, David H. Rogers
+- 3:12pm:  **"All Right, Mr. DeMille, I'm Ready for My Closeup": Adding Meaning to User Actions from Video for Immersive Analytics** by Andrea Batch, Niklas Elmqvist
+- 3:24pm:  **DeepVA: Bridging Cognition and Computation through Semantic Interaction and Deep Learning** by Yali Bian, John Wenskovitch, Chris North
+- 3:36pm:  **Shall we play? Extending the Visual Analytics Design Space through Gameful Design Concepts** by Rita Sevastjanova, Hanna Schäfer, Jürgen Bernard, Daniel Keim, Mennatallah El-Assady
 - 3:50pm:  **Break**
 
 **Session 2 (4:10pm - 5:40pm)**
 - 4:10pm:  **Keynote:  Supporting Analytical Conversations** by [Dr. Melanie Tory, Tableau Research](https://research.tableau.com/user/melanie-tory)
-- 4:40pm:  **Lightning Talks & Discussion** -- [Submit a Talk](https://forms.gle/xZCnXVmh7spLkGJSA)
+- 4:40pm:  **Machine Learning from User Interaction for Visualization and Analytics:  A Workshop-Generated Research Agenda** by John Wenskovitch, Michelle Dowling, Laura Grose, Remco Chang, Alex Endert, David H. Rogers
+- 4:50pm:  **Lightning Talks & Discussion** -- [Submit a Talk](https://forms.gle/xZCnXVmh7spLkGJSA)
 - 5:25pm:  **Next Steps**
 - 5:40pm:  **Workshop Concludes** ...but go have dinner with each other and keep talking :)
 
