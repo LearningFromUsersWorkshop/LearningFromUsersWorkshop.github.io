@@ -36,7 +36,7 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 
 
 
-**Keynote 2:  Keynote:  Supporting Analytical Conversations**
+**Keynote 2:  Supporting Analytical Conversations**
 
 **Abstract:**  Why isn't interacting with our data as simple as having a conversation with another person? In this talk I will explore how human-data interactions can be framed as conversations. These conversations can occur with, through, and around data. They occur through a variety of modalities, including but not limited to natural language. How should we structure and facilitate analytical conversations, and what can we learn from human-human interaction?
 
