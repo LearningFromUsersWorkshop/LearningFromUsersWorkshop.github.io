@@ -42,7 +42,7 @@ Camera-ready deadline:  August 20, 2020
 
 Speaker Schedule Available:  October 1, 2020
 
-Workshop:  October 25 or 26, 2019
+Workshop:  October 25 or 26, 2020
 
 ### Short Papers
 
@@ -56,7 +56,7 @@ Author notification:  September 1, 2020
 
 Camera-ready deadline:  September 15, 2020
 
-Workshop:  October 25 or 26, 2019
+Workshop:  October 25 or 26, 2020
 
 ## ORGANIZERS
 
