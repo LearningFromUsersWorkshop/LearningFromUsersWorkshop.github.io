@@ -4,7 +4,7 @@
 
 ## 2020 Workshop Summary
 
-**Date and Location:** TBD
+**Date and Location:** TBD, held virtually
 
 The Machine Learning from User Interactions (MLUI) workshop seeks to bring together researchers to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction.  Rather than focusing on what visualization can do to support machine learning (as in current Explainable AI research), this workshop seeks contributions on **how machine learning can support visualization**.  Such support incorporates human-centric sensemaking processes, user-driven analytical systems, and gaining insight from data.  Our intention in this workshop is to generate open discussion about how we currently learn from user interaction, how to build intelligent visualization systems, and how to proceed with future research in this area. We hope to foster discussion regarding systems, interaction models, and interaction techniques. Further, we hope to extend last year's collaborative creation of a research agenda that explores the future of machine learning with user interaction.
 
@@ -26,35 +26,33 @@ The topic of the workshop will focus on issues and opportunities related to the 
 
 ## SUBMISSIONS
 
-We have two submission tracks, supporting both long and short papers.
+We have two submission tracks, supporting both papers and late-breaking work.
 
-### Long Papers
+### Papers
 
 We invite research and position papers between 5 and 10 pages in length (NOT including references).  All submissions must be formatted according to the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (i.e., NOT the journal style template that full papers use).  All papers accepted for presentation at the workshop will be published on IEEE Xplore and linked from the workshop website.  All papers should contain full author names and affiliations.  These papers are considered archival; reuse of the content in a follow-up publication is only permitted in a proper journal, and any extended version must extend the original paper by at least 30%.  If applicable, a link to a short video (up to 5 min. in length) may also be submitted. The papers will be juried by the organizers and selected external reviewers and will be chosen according to relevance, quality, and likelihood that they will stimulate and contribute to the discussion. At least one author of each accepted paper needs to register  for the conference (even if only for the workshop).  Further submission details will follow.
   
 #### Important Dates
 
-Submission deadline:  June 30, 2020 
+Submission deadline:  July 24, 2020 
 
-Author notification:  July 31, 2020
+Author notification:  August 7, 2020
 
-Camera-ready deadline:  August 20, 2020
+Camera-ready deadline:  August 21, 2020
 
 Speaker Schedule Available:  October 1, 2020
 
 Workshop:  October 25 or 26, 2020
 
-### Short Papers
+### Late-Breaking Work
 
-We anticipate that some participants would prefer to discuss either (1) limited aspects of their larger work that fit our call, or (2) late-breaking work.  This replaces the posters track that we previously offered at MLUI.   We anticipate a small number of short paper submissions, perhaps no more than 5.  However, with the addition of the VIS conference short papers track, it will be easier for authors to rework rejected conference short paper submissions into workshop short papers, and so it is possible that we may receive more.  To implicitly encourage this, we set our submission deadline for short papers to be approximately one month after the conference notification for short paper submissions.  Short papers will be submitted in 2-4 page documents.  All submissions must be formatted according to the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (i.e., NOT the journal style template that full papers use).  Futher submission details will follow.
+We anticipate that some participants would prefer to discuss either (1) limited aspects of their larger work that fit our call, or (2) late-breaking work.  This replaces the posters track that we previously offered at MLUI.  Submissions for this track will only require a ~250 word abstract, and selected talks will receive 5 minutes to present their current work.  Further submission details will follow.
   
 #### Important Dates
 
-Submission deadline:  August 15, 2020
+Submission deadline:  October 1, 2020
 
-Author notification:  September 1, 2020
-
-Camera-ready deadline:  September 15, 2020
+Author notification:  October 8, 2020
 
 Workshop:  October 25 or 26, 2020
 
