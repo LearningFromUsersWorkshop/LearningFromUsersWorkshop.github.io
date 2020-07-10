@@ -58,9 +58,9 @@ Workshop:  October 25 or 26, 2020
 
 ## ORGANIZERS
 
-John Wenskovitch, Virginia Tech (jw87@vt.edu)
+John Wenskovitch, Pacific Northwest National Lab and Virginia Tech (jw87@vt.edu)
 
-Michelle Dowling, Virginia Tech (dowlingm@vt.edu)
+Michelle Dowling, Grand Valley State University (dowlingm@vt.edu)
 
 Eli T. Brown, DePaul University
 
