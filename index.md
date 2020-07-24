@@ -24,6 +24,18 @@ The topic of the workshop will focus on issues and opportunities related to the 
 - How can machine learning and user interaction together make both computation and user cognition more efficient?
 - How can we support the sensemaking process by learning from user interaction?
 
+
+## KEYNOTES
+
+**Keynote 1:  Mixed-Initiative Visual Analytics: Model-Driven Views and Analytic Guidance**
+
+**Abstract:**  Based on our experience conducting projects at the intersection of machine learning (ML) and interactive visualization (Vis), my talk will reflect on and discuss the current relation between these two areas.  For that purpose, the talk’s structure will follow two main streams.  First, I will talk about *Vis for ML*, that is, the idea that visualization can help machine learning researchers and practitioners gain interesting insights into their models. In the second part, I will then turn the relationship around and discuss how *ML for Vis* can guide visualization designers and analysts towards interesting visual patterns in the data. The talk will conclude with research challenges that lie ahead of us and that will pave the way for future interfaces between humans and data.
+
+**Biography:**  Michael Sedlmair is a junior professor at the University of Stuttgart, where he works at the intersection of human-computer interaction, visualization, and data analysis. Previously, Michael has worked at Jacobs University Bremen, University of Vienna, University of British Columbia, University of Munich (where he got his PhD), and the BMW Group Research and Technology. He also holds visiting positions at the Vienna University of Technology, and the Shandong University.  His interests focus on information visualization, interactive machine learning, virtual and augmented reality, as well as the research and evaluation methodologies underlying them.
+
+**Keynote 2:  TBD**
+
+
 ## SUBMISSIONS
 
 We have two submission tracks, supporting both papers and late-breaking work.
