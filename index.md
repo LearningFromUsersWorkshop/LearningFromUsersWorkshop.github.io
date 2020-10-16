@@ -33,7 +33,12 @@ The topic of the workshop will focus on issues and opportunities related to the 
 
 **Biography:**  Michael Sedlmair is a junior professor at the University of Stuttgart, where he works at the intersection of human-computer interaction, visualization, and data analysis. Previously, Michael has worked at Jacobs University Bremen, University of Vienna, University of British Columbia, University of Munich (where he got his PhD), and the BMW Group Research and Technology. He also holds visiting positions at the Vienna University of Technology, and the Shandong University.  His interests focus on information visualization, interactive machine learning, virtual and augmented reality, as well as the research and evaluation methodologies underlying them.
 
-**Keynote 2:  TBD**
+
+**Keynote 2:  Using Models and Predictions to Help Humans and Computers Click**
+
+**Abstract:**  There is a fast-growing interest in analyzing user interaction to create adaptive systems that can assist or collaborate on data analysis. However, the first step for an intelligent response in visualization is to Understand the User. The goal is to enable computers to infer user attributes and strategies by observing their interactions with a system. In this talk, Dr. Ottley summarizes user modeling for data visualization and gives a snapshot of where we are as a community and what is possible in the near and distant future. She presents techniques for modeling and predicting user behavior, focusing on inferring attention, personality, biases, and knowledge by analyzing log data. Finally, Dr. Ottley highlights the major roadblocks and future directions for provenance-related research. 
+
+**Biography:**  Dr. Alvitta Ottley is an Assistant Professor in the Department of Computer Science & Engineering at Washington University in St. Louis, Missouri, USA. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how to design human-in-the-loop visual analytics interfaces that are more attuned to the way people think. Dr. Ottley was the recipient of an NSF CRII Award in 2018 for using visualization to support medical decision-making. Her work has appeared in leading conferences and journals such as CHI, VIS, and TVCG.
 
 
 ## SUBMISSIONS
