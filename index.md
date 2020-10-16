@@ -4,7 +4,7 @@
 
 ## 2020 Workshop Summary
 
-**Date and Location:** TBD, held virtually
+**Date and Location:** October 25, 8:00-11:30am MDT, held virtually with IEEE VIS
 
 The Machine Learning from User Interactions (MLUI) workshop seeks to bring together researchers to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction.  Rather than focusing on what visualization can do to support machine learning (as in current Explainable AI research), this workshop seeks contributions on **how machine learning can support visualization**.  Such support incorporates human-centric sensemaking processes, user-driven analytical systems, and gaining insight from data.  Our intention in this workshop is to generate open discussion about how we currently learn from user interaction, how to build intelligent visualization systems, and how to proceed with future research in this area. We hope to foster discussion regarding systems, interaction models, and interaction techniques. Further, we hope to extend last year's collaborative creation of a research agenda that explores the future of machine learning with user interaction.
 
