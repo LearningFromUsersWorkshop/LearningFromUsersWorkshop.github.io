@@ -59,7 +59,7 @@ Camera-ready deadline:  August 21, 2020
 
 Speaker Schedule Available:  October 1, 2020
 
-Workshop:  October 25 or 26, 2020
+Workshop:  October 25, 2020
 
 ### Late-Breaking Work
 
@@ -71,7 +71,7 @@ Submission deadline:  October 1, 2020
 
 Author notification:  October 8, 2020
 
-Workshop:  October 25 or 26, 2020
+Workshop:  October 25, 2020
 
 ## ORGANIZERS
 
