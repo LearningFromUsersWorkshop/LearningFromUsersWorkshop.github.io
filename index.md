@@ -8,6 +8,23 @@
 
 The Machine Learning from User Interactions (MLUI) workshop seeks to bring together researchers to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction.  Rather than focusing on what visualization can do to support machine learning (as in current Explainable AI research), this workshop seeks contributions on **how machine learning can support visualization**.  Such support incorporates human-centric sensemaking processes, user-driven analytical systems, and gaining insight from data.  Our intention in this workshop is to generate open discussion about how we currently learn from user interaction, how to build intelligent visualization systems, and how to proceed with future research in this area. We hope to foster discussion regarding systems, interaction models, and interaction techniques. Further, we hope to extend last year's collaborative creation of a research agenda that explores the future of machine learning with user interaction.
 
+
+## WORKSHOP SCHEDULE
+
+**Session 1:** 8:00-9:30am MDT
+- 8:00am:  **Introduction and Welcome**
+- 8:05am:  **Keynote:  Machine Learning meets Visualization** by Dr. Michael Sedlmair
+- 8:50am:  **Bridging Cognitive Gaps Between User and Model in Interactive Dimension Reduction** by Ming Wang
+- 9:05am:  **Discussion**
+
+**Session 2:** 10:00-11:30am MDT
+- 10:00am:  **Keynote:  Using Models and Predictions to Help Humans and Computers Click** by Dr. Alvitta Ottley
+- 10:45am:  **Late-Breaking Work Lightning Talks**
+- 11:00am:  **Discussion**
+- 11:20am:  **Synthesis and Next Steps**
+
+
+
 ## WORKSHOP TOPICS
 
 The topic of the workshop will focus on issues and opportunities related to the use of machine learning to learn from user interaction in the course of data visualization and analysis. Specifically, we will focus on research questions including:
