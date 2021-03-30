@@ -27,7 +27,7 @@ The topic of the workshop will focus on issues and opportunities related to the 
 
 ## SUBMISSIONS
 
-For information to come.
+More information to come.
   
   
 #### Important Dates
