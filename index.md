@@ -1,8 +1,5 @@
-([2018 workshop page can be found here](workshop2018.md))
+(Previous workshop pages:  [2018](workshop2018.md), [2019](workshop2019.md), [2020](workshop2020.md))
 
-([2019 workshop page can be found here](workshop2019.md))
-
-([2020 workshop page can be found here](workshop2020.md))
 
 ## 2021 Workshop Summary
 
