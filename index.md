@@ -27,12 +27,7 @@ The topic of the workshop will focus on issues and opportunities related to the 
 
 ## SUBMISSIONS
 
-We have two submission tracks, supporting both papers and late-breaking work.
-
-
-### Papers
-
-We invite research and position papers between 5 and 10 pages in length (NOT including references).  All submissions must be formatted according to the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (i.e., NOT the journal style template that full papers use).  All papers accepted for presentation at the workshop will be published and linked from the workshop website.  All papers should contain full author names and affiliations.  These papers are considered archival; reuse of the content in a follow-up publication is only permitted in a proper journal, and any extended version must extend the original paper by at least 30%.  If applicable, a link to a short video (up to 5 min. in length) may also be submitted. The papers will be juried by the organizers and selected external reviewers and will be chosen according to relevance, quality, and likelihood that they will stimulate and contribute to the discussion. At least one author of each accepted paper needs to register  for the conference (even if only for the workshop).  Papers should be submitted to the "[VIS 2020 MLUI 2020](https://new.precisionconference.com/submissions)" track in PCS under the VGTC Society.
+For information to come.
   
   
 #### Important Dates
@@ -44,19 +39,6 @@ Author notification:  August 12, 2020
 Camera-ready deadline:  August 21, 2020
 
 Speaker Schedule Available:  October 1, 2020
-
-Workshop:  October 25, 2020
-
-
-### Late-Breaking Work
-
-We anticipate that some participants would prefer to discuss either (1) limited aspects of their larger work that fit our call, or (2) late-breaking work.  This replaces the posters track that we previously offered at MLUI.  Submissions for this track will only require a ~250 word abstract, and selected talks will receive 5 minutes to present their current work.  Further submission details will follow.
-  
-#### Important Dates
-
-Submission deadline:  October 1, 2020
-
-Author notification:  October 8, 2020
 
 Workshop:  October 25, 2020
 
