@@ -34,7 +34,7 @@ Submissions will be reviewed by a committee of reviewers that we will organize. 
   
 #### Important Dates
 
-Submission deadline:  July 31, 2021
+Submission deadline:  July 30, 2021
 
 Author notification:  August 15, 2021
 
