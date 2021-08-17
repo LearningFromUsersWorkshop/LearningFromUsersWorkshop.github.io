@@ -36,9 +36,9 @@ Submissions should be uploaded to the [MLUI 2021 track on PCS](https://new.preci
 
 Submission deadline:  July 30, 2021
 
-Author notification:  August 15, 2021
+Author notification:  August 31, 2021
 
-Camera-ready deadline:  August 25, 2021
+Camera-ready deadline:  September 10, 2021
 
 Speaker Schedule Available:  October 01, 2021
 
