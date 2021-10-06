@@ -8,6 +8,27 @@
 The Machine Learning from User Interactions (MLUI) workshop seeks to bring together researchers to share their knowledge and build collaborations at the intersection of the Machine Learning and Visualization fields, with a focus on learning from user interaction.  Rather than focusing on what visualization can do to support machine learning (as in current Explainable AI research), this workshop seeks contributions on **how machine learning can support visualization**.  Such support incorporates human-centric sensemaking processes, user-driven analytical systems, and gaining insight from data.  Our intention in this workshop is to generate open discussion about how we currently learn from user interaction, how to build intelligent visualization systems, and how to proceed with future research in this area. We hope to foster discussion regarding systems, interaction models, and interaction techniques.  MLUI 2021 largely plans to continue the momentum in this research area that the previous workshops have initiated.
 
 
+## WORKSHOP SCHEDULE
+
+**Session 1:** 12:00-1:30pm CDT
+- 8:00am:  **Introduction and Welcome**
+- 8:05am:  **Keynote(s):  TBD**
+- 9:00am:  **Discussion** -- Future of the Field; Organizing Block 2 Topics
+
+**Session 2:** 2:00-3:30pm CDT
+- 2:00pm:  **Welcome Back**
+- 2:05pm:  **DocTable: Table-Oriented Interactive Machine Learning for Text Corpora**, by Yeshwanth Devabhaktuni, Sriram Yarlagadda, David J Scroggins, Fang Cao, Franklin J Buitron, Eli T Brown
+- 2:20pm:  **SHIM: Semantic Hierarchical Clustering with Interactive Machine Learning**, by Fang Cao, Yuanwei Tu, Eli T Brown
+- 2:35pm:  **FacetRules: Discovering and Describing Related Groups**, by Lebna V Thomas, Jiahao Deng, Eli T Brown
+- 2:50pm:  **Discussion** -- Breakout Discussions
+- 3:20pm:  **Synthesis and Next Steps**
+
+
+## KEYNOTES
+
+TBD
+
+
 ## WORKSHOP TOPICS
 
 The topic of the workshop will focus on issues and opportunities related to the use of machine learning to learn from user interaction in the course of data visualization and analysis. Specifically, we will focus on research questions including:
