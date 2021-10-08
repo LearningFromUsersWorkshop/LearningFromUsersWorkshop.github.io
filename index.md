@@ -72,7 +72,7 @@ Michelle Dowling, Grand Valley State University (dowlinmi@gvsu.edu)
 
 Eli T. Brown, DePaul University
 
-Ab Mosca, Tufts University
+Ab Mosca, Northeastern University
 
 Conny Walchshofer, Johannes Kepler University Linz
 
