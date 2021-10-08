@@ -11,9 +11,9 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 ## WORKSHOP SCHEDULE
 
 **Session 1:** 12:00-1:30pm CDT
-- 8:00am:  **Introduction and Welcome**
-- 8:05am:  **Keynote(s):  TBD**
-- 9:00am:  **Discussion** -- Future of the Field; Organizing Block 2 Topics
+- 12:00pm:  **Introduction and Welcome**
+- 12:05pm:  **Keynote(s):  TBD**
+- 1:00pm:  **Discussion** -- Future of the Field; Organizing Block 2 Topics
 
 **Session 2:** 2:00-3:30pm CDT
 - 2:00pm:  **Welcome Back**
