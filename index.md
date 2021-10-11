@@ -26,7 +26,11 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 
 ## KEYNOTES
 
-TBD
+**Keynote 1:  Opportunities for Understanding Semantics of User Interactions**
+
+**Abstract:**  Most logging approaches record system events at a fairly low level of abstraction. In this talk, I will argue that higher levels of abstraction are possible and desirable. I will highlight opportunities for increasing semantics that software developers have by carefully recording meaningful events. I will then show that we can leverage algorithmic methods to infer user-intents. Finally, I will show opportunities for eliciting key information from insights directly from users. Explicitly asking users about their intentions has benefits for users, as they can later retrace their steps more efficiently, and system developers, as they can learn more about usage patterns of their system and motivations of their users. There are diverse user input modalities that can provide information at different levels of abstraction and invasiveness.  These modalities range from multiple choice responses, to structured notes, to “think-aloud-like” approaches. In combination, these approaches are promising for building systems that have a better understanding of their users and hence can support users in their analytical tasks.
+
+**Biography:**  Alex is an Associate Professor of Computer Science at the Scientific Computing and Imaging Institute and the School of Computing at the University of Utah. I direct the Visualization Design Lab where we develop visualization methods and systems to help solve today's scientific problems.  Before joining the University of Utah, he was a lecturer and post-doctoral visualization researcher at Harvard University. He received his PhD, master's, and undergraduate degrees from Graz University of Technology. In 2011, he was a visiting researcher at Harvard Medical School.  He is the recipient of an NSF CAREER award and multiple best paper awards or best paper honorable mentions at IEEE VIS, ACM CHI, and other conferences. He also received a best dissertation award from his alma mater.  He co-founded Datavisyn (http://datavisyn.io), a startup company developing visual analytics solutions for the pharmaceutical industry, where he is currently spending his sabbatical. 
 
 
 ## WORKSHOP TOPICS
