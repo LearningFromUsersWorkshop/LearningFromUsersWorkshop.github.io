@@ -12,8 +12,9 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 
 **Session 1:** 12:00-1:30pm CDT
 - 12:00pm:  **Introduction and Welcome**
-- 12:05pm:  **Keynote(s):  TBD**
-- 1:00pm:  **Discussion** -- Future of the Field; Organizing Block 2 Topics
+- 12:05pm:  **Keynote 1:  Opportunities for Understanding Semantics of User Interactions** by Alex Lex
+- 12:35pm:  **Keynote 2:  TBD** by Alex Endert
+- 1:05pm:  **Discussion** -- Future of the Field; Organizing Block 2 Topics
 
 **Session 2:** 2:00-3:30pm CDT
 - 2:00pm:  **Welcome Back**
