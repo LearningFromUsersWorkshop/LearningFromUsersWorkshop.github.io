@@ -18,9 +18,9 @@ The Machine Learning from User Interactions (MLUI) workshop seeks to bring toget
 
 **Session 2:** 2:00-3:30pm CDT
 - 2:00pm:  **Welcome Back**
-- 2:05pm:  **DocTable: Table-Oriented Interactive Machine Learning for Text Corpora**, by Yeshwanth Devabhaktuni, Sriram Yarlagadda, David J Scroggins, Fang Cao, Franklin J Buitron, Eli T Brown
-- 2:20pm:  **SHIM: Semantic Hierarchical Clustering with Interactive Machine Learning**, by Fang Cao, Yuanwei Tu, Eli T Brown
-- 2:35pm:  **FacetRules: Discovering and Describing Related Groups**, by Lebna V Thomas, Jiahao Deng, Eli T Brown
+- 2:05pm:  **DocTable: Table-Oriented Interactive Machine Learning for Text Corpora**, by Yeshwanth Devabhaktuni, Sriram Yarlagadda, David J Scroggins, Fang Cao, Franklin J Buitron, Eli T Brown [(paper)](papers/DocTable.pdf)
+- 2:20pm:  **SHIM: Semantic Hierarchical Clustering with Interactive Machine Learning**, by Fang Cao, Yuanwei Tu, Eli T Brown [(paper)](papers/SHIM.pdf)
+- 2:35pm:  **FacetRules: Discovering and Describing Related Groups**, by Lebna V Thomas, Jiahao Deng, Eli T Brown [(paper)](papers/FacetRules.pdf)
 - 2:50pm:  **Discussion** -- Breakout Discussions
 - 3:20pm:  **Synthesis and Next Steps**
 
